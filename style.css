@@ -1,0 +1,37 @@
+body
+{
+    background: skyblue;
+}
+.box
+{
+    height:315px;
+    width:500px;
+    background:hotpink;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 100px;
+    border: 7px solid gray;
+}
+h1
+{
+ color:red;
+}
+h3
+{
+color:blue
+}
+h4
+{
+color:green;
+}
+
+#result
+{
+    height:25px;
+    width:fit-content;
+    background:black;
+    margin: auto;
+    margin-top: 25px;
+    color: aqua;
+    font-size: large;
+}
